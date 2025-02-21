@@ -20,7 +20,7 @@
 	<external-app>
 		<docker-install>
 			<registry>ghcr.io</registry>
-			<image>nextcloud/app-skeleton-python</image>
+			<image>kyteinsky/app-skeleton-python</image>
 			<image-tag>latest</image-tag>
 		</docker-install>
 		<environment-variables>
